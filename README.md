@@ -27,9 +27,9 @@ Install with BepInEx
 - Fifth: Download the ScannablePlayersMod.dll from the [releases](https://github.com/obsidian-ig/ScannablePlayers/releases)
 - Sixth: Launch Lethal Company once
 - Seventh: Wait until it gets to the "online" or "lan" page
-- Eigth: Close the game
+- Eighth: Close the game
 - Ninth: Go into the "BepInEx" folder inside of the lethal company folder
 - Tenth: Go into the "plugins" folder
 - Eleventh: Paste the .dll into the "plugins" folder
-- Twelth: Launch the game.
+- twelfth: Launch the game.
     
