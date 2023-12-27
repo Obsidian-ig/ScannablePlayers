@@ -20,7 +20,7 @@ This is a github repository for my source code of the Scannable Players Lethal C
 
 Install with BepInEx
 
-- First: Download [BepInEx Zip Folder](https://thunderstore.io/package/download/BepInEx/BepInExPack/5.4.2100/)
+- First: Download [BepInEx Zip Folder]([https://thunderstore.io/package/download/BepInEx/BepInExPack/5.4.2100/](https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip))
 - Second: Open up the .zip folder and copy everything inside
 - Third: Go to your lethal company directory
 - Fourth: paste everything you have copied into the lethal company folder.
